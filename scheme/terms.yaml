@@ -1,0 +1,87 @@
+kind: scheme/terms
+metadata: 
+  name: terms
+  text: 
+  plain:
+  category:
+  references:
+specs:
+  terms:
+    - name: al-majruur
+      text: المَجْرُورُ
+      plain: 
+      references: 
+    - name: al-kasroh
+      text: الْكَسْرَةُ
+      plain: الْكَسْرَةُ
+      category: 
+      references:
+    - name: al-ismu-al-mufrod
+      text: الِاسْمُ الْمُفْرَدُ
+      plain:
+      category: 
+      references:
+    - name: jamu-at-taksir
+      text: جَمْعُ التَّكْسِيرِ
+      plain:
+      category: 
+      references:
+    - name: jamu-al-muanats-salim
+      text: جمْعُ المُؤَنَّث السالم
+      plain:
+      category: 
+      references:
+    - name: al-ismu-al-ladzi-la-yanshoruf
+      text: الِاسْمُ الَّذِي لَا يَنْصَرِفُ
+      plain:
+      category: 
+      references:
+    - name: al-mutsana
+      text: الْمُثَنَّى
+      plain:
+      category: 
+      references:
+    - name: jamu-al-mudzakar-salim
+      text: جَمْعُ المُدَكَّرِ السَّالم
+      plain:
+      category: 
+      references:
+    - name: al-ismu-al-khomsah
+      text: الأَسْمَاءُ الْخَمْسَةُ
+      plain:
+      category: 
+      references:
+    - name: al-yau
+      text: الْيَاءُ
+      plain: 
+      category: 
+      references:
+    - name: hurf-al-jarr
+      text: حروف الجر و القسم
+      plain: 
+      category: 
+      references:
+    - name: al-idhofah
+      text: الإضافة
+      plain: 
+      category: 
+      references:
+    - name: an-nawabi-al-majrur
+      text: التوابع للمجرور
+      plain: 
+      category: 
+      references:
+    - name: 
+      text: 
+      plain: 
+      category: 
+      references:
+    - name: 
+      text: 
+      plain: 
+      category: 
+      references:
+
+
+
+

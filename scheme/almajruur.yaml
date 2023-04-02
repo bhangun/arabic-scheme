@@ -1,0 +1,26 @@
+kind: scheme/nahwu
+metadata: 
+  name: al-majruur
+  dependencies:
+    - terms.yaml
+specs:
+  cause:
+    - name: hurf-al-jarr
+    - name: al-idhofah
+    - name: an-nawabi-al-majrur
+  signs:
+    - name: al-kasroh
+      items:
+        - name: al-ismu-al-mufrod
+        - name: jamu-at-taksir
+        - name: jamu-al-muanats-salim
+    - name: al-fathah
+      items:
+        - name: al-ismu-al-ladzi-la-yanshoruf
+    - name: al-yau
+      items:
+        - name: al-mutsana
+        - name: jamu-al-mudzakar-salim
+        - name: al-ismu-al-khomsah
+
+

@@ -1,0 +1,43 @@
+kind: scheme/hurf
+metadata: 
+  name: hurf
+  text: 
+  plain:
+  category:
+  references:
+specs:
+  categories:
+    - name: 
+      references:
+      description: |
+        هَاكَ حُرُوفَ الْجَرِّ وَهْيَ مِنْ إلىَ ¤ حَتَّى خَلا حَاشَا عَدَا في عَنْ عَلَى
+
+        Ambillah sebagai Huruf Jar yaitu : Min, Ila, Hatta, Kholaa, Haasyaa, ‘Adaa, Fii, ‘An, ‘Alaa,
+
+        مُذْ مُنْذُ رُبَّ اللّامُ كَيْ وَاوٌ وَتَا ¤ وَالكَافُ وَالْبَا وَلَعَلَّ وَمَتَى
+
+        Mudz, Mundzu, Rubba, Lam, Kay, Wawu, Ta’, Kaf, Ba’, La’alla, dan Mataa.
+      words:
+        - name: Min 
+          text: مِنْ
+        - name: Ila
+          text: اِلَى
+        - name: Hatta 
+          text: (حَتَّى ) artinya hingga.
+        - name: Kholaa (خَلا ) artinya kecuali/selain.
+        - name: Haasyaa (حَاشَا ) artinya kecuali/selain.
+        - name: ‘Adaa (عَدَا ) artinya kecuali/selain.
+        - name: Fii (فِي).
+        - name: ‘An (عَنْ).
+        - name: ‘Ala (عَلَى).
+        - name: Mudz (مُذْ ) artinya sejak, dari / di dalam.
+        - name: Mundzu (مُنْذُ ) artinya sejak, dari / di dalam.
+        - name: Rubba (رُبَّ).
+        - name: Lam (ل).
+        - name: Kai (كَيْ) artinya karena.
+        - name: Wawu (و).
+        - name: Ta’ (ت).
+        - name: Kaf (كَ).
+        - name: Ba’ (بِ).
+        - name: La’alla (لَعَلَّ) artinya semoga.
+        - name: Mataa (مَتَى)  artinya seperti min (dari).
